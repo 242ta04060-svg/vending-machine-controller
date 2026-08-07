@@ -1,0 +1,1 @@
+iverilog -o vending_machine src/vending_machine.v tb/vending_machine_tb.v
